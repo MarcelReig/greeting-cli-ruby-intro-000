@@ -36,4 +36,4 @@ describe './bin/greet executing a CLI Application' do
 
     expect(output).to include("Hello Don. It's nice to meet you.")
   end
-ends
+end
